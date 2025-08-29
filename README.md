@@ -4,11 +4,11 @@ Built in TypeScript, the openai-agent package is designed to make your life easi
 Getting Started 🚀
 First, ensure that you have Node.js and npm installed. This package is built using TypeScript, so you might also want to have the TypeScript compiler installed globally. You can install it using npm:
 
-npm install -g typescript
-To install the OpenAI Agent package, run the following command:
+**npm install -g typescript
+To install the OpenAI Agent package, run the following command:**
 
-npm install openai-agent
-Important: As this library uses experimental reflection decorators, add this to your tsconfig.json
+**npm install openai-agent
+Important: As this library uses experimental reflection decorators, add this to your tsconfig.json**
 
 "experimentalDecorators": true,
 "emitDecoratorMetadata": true,
